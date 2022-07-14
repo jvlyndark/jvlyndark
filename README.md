@@ -5,3 +5,4 @@
 <p>Reach me at ursulajdark (at) gmail (dot) com</p>
 
 [![Twitter: jvlyndark](https://img.shields.io/twitter/follow/jvlyndark?style=social)](https://twitter.com/jvlyndark)
+[![GitHub: jvlyndark](https://img.shields.io/github/followers/jvlyndark?label=follow%20%40jvlyndark&style=social)](https://github.com/jvlyndark)
