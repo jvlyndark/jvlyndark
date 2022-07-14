@@ -13,10 +13,7 @@
 int main()
 {
   // about jvlyndark
-  const char* pronouns[2] = { 
-    "She", 
-    "They" 
-  };
+  const char* pronouns[2] = { "She", "They" };
   const char* languages[7] = { "C++", "Java", "Python", "Ruby", 
     "Golang", "Javascript", "SQL"
   };
