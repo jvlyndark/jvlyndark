@@ -9,6 +9,8 @@
 [![Linkedin: jvlyndark](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvlyndark/)](https://www.linkedin.com/in/jvlyndark/)
 [![GitHub: jvlyndark](https://img.shields.io/github/followers/jvlyndark?label=follow%20%40jvlyndark&style=social)](https://github.com/jvlyndark)
 
+### About me...✨
+
 ```cpp
 int main()
 {
