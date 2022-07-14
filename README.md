@@ -17,22 +17,13 @@ int main()
     "She", 
     "They" 
   };
-  const char* languages[7] = { 
-    "C++", 
-    "Java", 
-    "Python", 
-    "Ruby", 
-    "Golang", 
-    "Javascript", 
-    "SQL"
+  const char* languages[7] = { "C++", "Java", "Python", "Ruby", 
+    "Golang", "Javascript", "SQL"
   };
-  const char* interests[6] = { 
-    "Backend Dev", 
-    "Graphics Rendering", 
-    "Algorithms", 
-    "Machine Learning", 
-    "Complex Systems Theory", 
-    "Digital Art"
+  const char* interests[8] = { "Backend Dev", "Algorithms",
+    "Machine Learning", "Data Science",
+    "Astrophysics", "Complex Systems Theory", 
+    "Graphics Rendering", "Digital Art"
   };
 }
 ```
