@@ -25,5 +25,7 @@ int main()
     "Astrophysics", "Complex Systems Theory", 
     "Graphics Rendering", "Digital Art"
   };
+  
+  return 666;
 }
 ```
