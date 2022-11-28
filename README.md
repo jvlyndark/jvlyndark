@@ -28,5 +28,5 @@ def about
     "Graphics Rendering", "Digital Art" ]
   
   return 666
-}
+end
 ```
