@@ -9,23 +9,24 @@
 [![Twitter: jvlyndark](https://img.shields.io/twitter/follow/jvlyndark?style=social)](https://twitter.com/jvlyndark)
 [![Linkedin: jvlyndark](https://img.shields.io/badge/-jvlyndark-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvlyndark/)](https://www.linkedin.com/in/jvlyndark/)
 [![GitHub: jvlyndark](https://img.shields.io/github/followers/jvlyndark?label=follow%20%40jvlyndark&style=social)](https://github.com/jvlyndark)
+[![LeetCode: jvlyndark](https://leetcode.com/jvlyndark/)
 
 ### About me...✨
 
-```cpp
-int main()
-{
-  // about jvlyndark
-  const char* pronouns[2] = { "She", "They" };
-  const char* languages[7] = { "C++", "Ruby", "Python", "Java", 
-    "Golang", "Javascript", "SQL"
-  };
-  const char* interests[8] = { "Backend Dev", "Algorithms",
+```ruby
+def about
+
+  // jvlyndark
+  pronouns = [ "She", "They" ]
+  
+  languages = [ "Ruby", "C++", "Python", "Java", 
+    "Golang", "Javascript", "SQL" ]
+    
+  interests = [ "Backend Dev", "Algorithms",
     "Machine Learning", "Data Science",
     "Astrophysics", "Complex Systems Theory", 
-    "Graphics Rendering", "Digital Art"
-  };
+    "Graphics Rendering", "Digital Art" ]
   
-  return 666;
+  return 666
 }
 ```
