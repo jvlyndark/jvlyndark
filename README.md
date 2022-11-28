@@ -16,7 +16,7 @@
 ```ruby
 def about
 
-  // jvlyndark
+  # jvlyndark
   pronouns = [ "She", "They" ]
   
   languages = [ "Ruby", "C++", "Python", "Java", 
