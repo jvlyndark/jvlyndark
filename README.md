@@ -1,30 +1,44 @@
 ### Welcome, user! 👽
 
-<p>My name is Ursula J'vlyn d'Ark
-<em> ~> (it's pronounced like javelin ;))</em></p>
-<p>I'm a backend developer and lover of math, algorithms, and digital art.</p>
-<p>Reach me at ursulajdark (at) gmail (dot) com</p>
+**My name is Ursula J’vlyn d’Ark**  
+*~> (it's pronounced like javelin ;)*  
 
-[![Linkedin: jvlyndark](https://img.shields.io/badge/-jvlyndark-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvlyndark/)](https://www.linkedin.com/in/jvlyndark/)
-<a href="https://www.leetcode.com/jvlyndark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jvlyndark" height="30" width="40" /></a>
+I'm a backend and infrastructure developer and lover of math, systems theory, and digital art.  
 
+📫 ursulajdark (at) gmail (dot) com  
 
-### About me...✨
+[![LinkedIn: jvlyndark](https://img.shields.io/badge/-jvlyndark-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jvlyndark/)  
+[![LeetCode: jvlyndark](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://leetcode.com/jvlyndark)
 
-```ruby
-def about
+---
 
-  # jvlyndark
-  pronouns = [ "She", "They" ]
-  
-  languages = [ "Ruby", "C++", "Python", "Java", 
-    "Golang", "Javascript", "SQL" ]
-    
-  interests = [ "Backend Dev", "Algorithms",
-    "Machine Learning", "Data Science",
-    "Astrophysics", "Complex Systems Theory", 
-    "Graphics Rendering", "Digital Art" ]
-  
-  return 666
-end
-```
+### About me… ✨
+
+```python
+class Jvlyndark:
+    """
+    Ursula J’vlyn d’Ark’s profile
+    """
+    def __init__(self):
+        self.pronouns = ['they', 'she', 'he']
+        self.languages = ['Python', 'C#', 'C++', 'Ruby', 'Java']
+        self.interests = [
+            'infrastructure',
+            'backend',
+            'data privacy',
+            'machine learning',
+            'data science',
+            'astrophysics',
+            'systems theory',
+            'digital art',
+        ]
+
+    def about(self):
+        """
+        Returns a summary of my profile attributes.
+        """
+        return {
+            'pronouns': self.pronouns,
+            'languages': self.languages,
+            'interests': self.interests,
+        }
