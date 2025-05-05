@@ -7,10 +7,7 @@ I'm a backend and infrastructure developer and lover of math, systems theory, an
 
 📫 ursulajdark (at) gmail (dot) com  
 
-[![LinkedIn: jvlyndark](https://img.shields.io/badge/-jvlyndark-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jvlyndark/)  
-[![LeetCode: jvlyndark](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://leetcode.com/jvlyndark)
-
----
+LinkedIn: [![LinkedIn: jvlyndark](https://img.shields.io/badge/-jvlyndark-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jvlyndark/)  
 
 ### About me… ✨
 
