@@ -20,14 +20,8 @@ class Jvlyndark:
         self.pronouns = ['they', 'she', 'he']
         self.languages = ['Python', 'C#', 'C++', 'Ruby', 'Java']
         self.interests = [
-            'infrastructure',
-            'backend',
-            'data privacy',
-            'machine learning',
-            'data science',
-            'astrophysics',
-            'systems theory',
-            'digital art',
+            'infrastructure', 'backend', 'data privacy', 'machine learning',
+            'data science', 'astrophysics', 'systems theory', 'digital art'
         ]
 
     def about(self):
